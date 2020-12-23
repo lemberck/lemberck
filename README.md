@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## [Data Science and Machine Learning Projects]
-   -- [ML - Regression: House Pricing Models Comparison](https://github.com/lemberck/ML-Regression-House_Pricing_Models#machine-learning---regression-house-pricing-models-comparison)
+   - [ML - Regression: House Pricing Models Comparison](https://github.com/lemberck/ML-Regression-House_Pricing_Models#machine-learning---regression-house-pricing-models-comparison)
+   
    -- []()
    -- []()
 <!--
