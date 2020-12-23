@@ -1,11 +1,19 @@
-### Hi there 👋
-Projects from IBM's Data Science Professional Certificate
+### Welcome 👋 !
+These are Hands-on Projects from specialization courses I'm taking, which are: 
 
-Developer: Bruna Lemberck
+      - **IBM**'s Data Science Professional Certificate {ENG} [more info] (https://www.coursera.org/professional-certificates/ibm-data-science#courses)
+      
+      - **Data Science Academy**'s Python for Data Analysis {PORT} [more info] (https://www.datascienceacademy.com.br/pages/formacao-inteligencia-artificial)
+      
+      - **Data Science Academy**'s Machine Learning Course {PORT} [more info] ()
+      
+      - **Data Science Academy**'s Artificial Intelligence Formation {PORT} [more info]
+      
+**Developer:** Bruna Lemberck
 
-LinkedIn: https://www.linkedin.com/in/brunalemberck/
+**LinkedIn:** https://www.linkedin.com/in/brunalemberck/
 
-e-mail: blemberck@hotmail.com
+**e-mail:** blemberck@hotmail.com
 
 ## [Data Science and Machine Learning Projects]
    - [ML - Regression: House Pricing Models Comparison](https://github.com/lemberck/ML-Regression-House_Pricing_Models#machine-learning---regression-house-pricing-models-comparison) 
