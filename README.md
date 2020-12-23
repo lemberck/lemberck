@@ -1,9 +1,9 @@
 ### Welcome 👋 !
 These are Hands-on Projects from specialization courses I'm taking, which are: 
 
-   _IBM_'s Data Science Professional Certificate  [Complete]    
+   _IBM_'s Data Science Professional Certificate  [Complete](https://www.youracclaim.com/users/bruna-lemberck)    
    
-   _Data Science Academy_'s Python for Data Analysis [Complete]
+   _Data Science Academy_'s Python for Data Analysis [Complete](https://www.linkedin.com/feed/update/urn:li:activity:6736732341579972608/)
    
    _Data Science Academy_'s Machine Learning Course [Ongoing]
    
