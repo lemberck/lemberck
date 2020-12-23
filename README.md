@@ -15,13 +15,18 @@ These are Hands-on Projects from specialization courses I'm taking, which are:
 
 **e-mail:** blemberck@hotmail.com
 
-## [Data Science and Machine Learning Projects]
-   - [ML - Regression: House Pricing Models Comparison](https://github.com/lemberck/ML-Regression-House_Pricing_Models#machine-learning---regression-house-pricing-models-comparison) 
+# Data Science and Machine Learning Projects
+   ### _Machine Learning - Supervised_ 
+   - [ML - Regression: House Pricing Models Comparison](https://github.com/lemberck/ML-Regression-House_Pricing_Models#machine-learning---regression-house-pricing-models-comparison)
+   ### _Machine Learning - Unsupervised_
+    🔭--> Under Construction <--🔭
+    
+   ### _Data Analysis and Data Visualization_ 
    - [DataViz - San Francisco Crime Choropleth Map](https://github.com/lemberck/DataViz-San_Francisco_Crime_Choropleth_Map)
    - [Data Analysis - Survey Analysis of Data Science Interest](https://github.com/lemberck/Data-Analysis-Survey_Analysis_Data_Science_interest)
    
    
-## [Artificial Intelligence Projects]
+# Artificial Intelligence Projects
  🔭--> Under Construction <--🔭
 <!--
 **lemberck/lemberck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
