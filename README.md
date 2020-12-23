@@ -23,6 +23,7 @@ These are Hands-on Projects from specialization courses I'm taking, which are:
     
    ### _Data Analysis and Data Visualization_ 
    > [DataViz - San Francisco Crime Choropleth Map](https://github.com/lemberck/DataViz-San_Francisco_Crime_Choropleth_Map)
+   
    > [Data Analysis - Survey Analysis of Data Science Interest](https://github.com/lemberck/Data-Analysis-Survey_Analysis_Data_Science_interest)
    
    
