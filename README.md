@@ -1,13 +1,13 @@
 ### Welcome 👋 !
 These are Hands-on Projects from specialization courses I'm taking, which are: 
 
-      - **IBM**'s Data Science Professional Certificate {ENG} [more info] (https://www.coursera.org/professional-certificates/ibm-data-science#courses)
-      
-      - **Data Science Academy**'s Python for Data Analysis {PORT} [more info] (https://www.datascienceacademy.com.br/pages/formacao-inteligencia-artificial)
-      
-      - **Data Science Academy**'s Machine Learning Course {PORT} [more info] ()
-      
-      - **Data Science Academy**'s Artificial Intelligence Formation {PORT} [more info]
+   _IBM_'s Data Science Professional Certificate      
+   
+   _Data Science Academy_'s Python for Data Analysis
+   
+   _Data Science Academy_'s Machine Learning Course
+   
+   _Data Science Academy_'s Artificial Intelligence Formation
       
 **Developer:** Bruna Lemberck
 
