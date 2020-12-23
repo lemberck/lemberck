@@ -1,5 +1,5 @@
 ### Welcome 👋 !
-These are Hands-on Projects from specialization courses I'm taking, which are: 
+These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
    _IBM_'s |Data Science Professional Certificate|  [Complete](https://www.youracclaim.com/users/bruna-lemberck):heavy_check_mark:    
    
