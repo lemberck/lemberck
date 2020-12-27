@@ -23,7 +23,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    ### _Machine Learning - Supervised_ 
    > [ML - Regression: House Pricing Models Comparison](https://github.com/lemberck/ML-Regression-House_Pricing_Models#machine-learning---regression-house-pricing-models-comparison)
    
-   > [ML - Best Classifier (KNN x DecTree x SVM x LogistRegr): Loan Status-](https://github.com/lemberck/ML-Best-Classifier-Comparison-Loan_Status-)⚡
+   > [ML - Best Classifier (KNN x DecTree x SVM x LogistRegr): Loan Status](https://github.com/lemberck/ML-Best-Classifier-Comparison-Loan_Status-)⚡
    
    > [ML - Classification - SVM: Cancer detection](https://github.com/lemberck/ML-Classif-SVM-Cancer_detection)
    
