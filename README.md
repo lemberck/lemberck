@@ -35,9 +35,13 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    ### _Machine Learning - Unsupervised_
    > [ML - Clustering- K-Means: Customer Segmentation](https://github.com/lemberck/ML-Clustering-K_Means-Customer_Segmentation)
+   
+   
+   ### _Recommender Systems_
+   > [ML - Recommender System - Content-Based: Movie Recommender](https://github.com/lemberck/ML-Recom_Syst-Content-Based-Movie_Recommender)⚡
     
    ### _Data Analysis and Data Visualization_ 
-   > [NLP - Wordcloud for Alice Novel](https://github.com/lemberck/NLP-wordcloud)
+   > [NLP - Wordcloud for Alice Novel](https://github.com/lemberck/NLP-wordcloud)⚡
    
    > [DataViz Clustering Markers - San Francisco Crimes](https://github.com/lemberck/DataViz-Markers_Clusters-San_Francisco_Crimes)
    
