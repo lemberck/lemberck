@@ -27,7 +27,9 @@ These are some selected Hands-on Projects from specialization courses I'm taking
     
    ### _Data Analysis and Data Visualization_ 
    > [NLP - Wordcloud for Alice Novel](https://github.com/lemberck/NLP-wordcloud)
+   
    > [DataViz - San Francisco Crime Choropleth Map](https://github.com/lemberck/DataViz-San_Francisco_Crime_Choropleth_Map)
+   
    > [Data Analysis - Survey Analysis of Data Science Interest](https://github.com/lemberck/Data-Analysis-Survey_Analysis_Data_Science_interest)
    
    
