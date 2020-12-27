@@ -23,9 +23,12 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    ### _Machine Learning - Supervised_ 
    > [ML - Regression: House Pricing Models Comparison](https://github.com/lemberck/ML-Regression-House_Pricing_Models#machine-learning---regression-house-pricing-models-comparison)
    
-   > [ML - Classification - KNN: Customer Segmentation](https://github.com/lemberck/ML-Classif-KNN-Customer_Segmentation)
+   > [ML - Classification - SVM: Cancer detection](https://github.com/lemberck/ML-Classif-SVM-Cancer_detection)
    
    > [ML - Classification - Decision_Tree: Medical Drug Research](https://github.com/lemberck/ML-Classif-Decision_Tree-Medical_Drug_Research)
+   
+   > [ML - Classification - KNN: Customer Segmentation](https://github.com/lemberck/ML-Classif-KNN-Customer_Segmentation)
+   
    
    > [ML - Classification -Logistic Regression: Customer Churn](https://github.com/lemberck/ML-Classif-LogistRegr-Customer_Churn)
    ### _Machine Learning - Unsupervised_
