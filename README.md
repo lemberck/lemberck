@@ -1,4 +1,8 @@
 ### Welcome 👋 !
+I'm an Automation Engineer passionate about **_Machine Learning, Artificial Intelligence, Computer Vision and Data Science_**!
+I've been studying for a year now to specialize into those areas. My GitHub is currently    🔭--> Under Construction <--🔭,
+I'm constantly updating to show some selected projects I've finished, and you can find the list right after this presentation.
+
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
    _IBM_'s |Data Science Professional Certificate|  [Complete](https://www.youracclaim.com/users/bruna-lemberck):heavy_check_mark:    
