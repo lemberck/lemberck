@@ -27,12 +27,14 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    > [ML - Classification - Decision_Tree: Medical Drug Research](https://github.com/lemberck/ML-Classif-Decision_Tree-Medical_Drug_Research)
    
-   > [ML - Classification - KNN: Customer Segmentation](https://github.com/lemberck/ML-Classif-KNN-Customer_Segmentation)
+   > [ML - Classification - KNN: Customer Customized Offer](https://github.com/lemberck/ML-Classif-KNN-Customer_Segmentation)
+   
+  
    
    
    > [ML - Classification -Logistic Regression: Customer Churn](https://github.com/lemberck/ML-Classif-LogistRegr-Customer_Churn)
    ### _Machine Learning - Unsupervised_
-    🔭--> Under Construction <--🔭
+   > [ML - Clustering- K-Means: Customer_Segmentation](https://github.com/lemberck/ML-Clustering-K_Means-Customer_Segmentation)
     
    ### _Data Analysis and Data Visualization_ 
    > [NLP - Wordcloud for Alice Novel](https://github.com/lemberck/NLP-wordcloud)
