@@ -39,6 +39,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    ### _Recommender Systems_
    > [ML - Recommender System - Content-Based: Movie Recommender](https://github.com/lemberck/ML-Recom_Syst-Content-Based-Movie_Recommender)⚡
+   
    > [ML - Recommender System - Collaborative Filtering: User-User Movie Recommender](https://github.com/lemberck/ML-RecomSyst-Collaborative_Filter-Movie_Recommender_User-User-)⚡
     
    ### _Data Analysis and Data Visualization_ 
