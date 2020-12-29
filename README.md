@@ -1,5 +1,6 @@
 ### Welcome 👋 !
-I'm an Automation Engineer passionate about **_Machine Learning, Artificial Intelligence, Computer Vision and Data Science_**!
+I'm an Automation Engineer passionate about **_Machine Learning, Artificial Intelligence, Computer Vision and Data Science_**! 
+I'm also passionate about continuous learning, and I believe that's a must for every professional that works in any tech-related area!
 I've been studying for a year now to specialize into those areas. My GitHub is currently    **🔭--> Under Construction <--🔭**,
 I'm constantly updating to show some selected projects I've finished, and you can find the list right [[HERE]](https://github.com/lemberck/lemberck/blob/main/README.md#data-science-and-machine-learning-projects)
 
