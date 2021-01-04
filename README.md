@@ -14,13 +14,15 @@ I'm constantly updating to show some selected projects I've finished, and you ca
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
-   _IBM_'s |Data Science Professional Certificate|  [Complete](https://www.youracclaim.com/users/bruna-lemberck):heavy_check_mark:    
+   _IBM_'s |Data Science Professional Certificate|  [Complete](https://www.youracclaim.com/earner/earned/badge/4d480c0a-02f6-46b6-82cd-602c5a76cd14):heavy_check_mark:    
    
    _Data Science Academy_'s |Python for Data Analysis| [Complete](https://www.linkedin.com/feed/update/urn:li:activity:6736732341579972608/):heavy_check_mark:
    
    _Data Science Academy_'s |Machine Learning| [Ongoing]:memo:
    
    _Data Science Academy_'s |Artificial Intelligence Formation| [Ongoing]:memo:
+   
+   _Professional Badges_ [HERE](https://www.youracclaim.com/users/bruna-lemberck)
       
 **Developer:** Bruna Lemberck
 
