@@ -5,7 +5,9 @@ I'm also passionate about **_continuous learning_**, and I believe that's a must
 
 
 I've been studying for a year now to specialize into those areas. My GitHub is currently    **🔭--> Under Construction <--🔭**,
-I'm constantly updating to show some selected projects I've finished, and you can find the list right [[HERE]](https://github.com/lemberck/lemberck/blob/main/README.md#data-science-and-machine-learning-projects)
+I'm constantly updating to show some selected projects I've finished, and you can find the list here:
+
+               ||[Machine Learning and Data Science]()||       ||[Artificial Intelligence and Virtual Assistannt]()||
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
@@ -23,7 +25,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
 
 **e-mail:** blemberck@hotmail.com
 
-# Data Science and Machine Learning Projects
+# Machine Learning and Data Science Projects
    ### _Machine Learning - Supervised_ 
    > [ML - Regression: House Pricing Models Comparison](https://github.com/lemberck/ML-Regression-House_Pricing_Models#machine-learning---regression-house-pricing-models-comparison)
    
@@ -57,7 +59,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    > [Data Analysis - Survey Analysis of Data Science Interest](https://github.com/lemberck/Data-Analysis-Survey_Analysis_Data_Science_interest)
    
    
-# Artificial Intelligence Projects
+# Artificial Intelligence and Virtual Assistant Projects
  🔭--> Under Construction <--🔭
 <!--
 **lemberck/lemberck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
