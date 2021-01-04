@@ -4,13 +4,13 @@ I'm an Automation Engineer passionate about **_Machine Learning, Artificial Inte
 I'm also passionate about **_continuous learning_**, and I believe that's a must for every professional that works in any tech-related area!
 
 
-I've been studying for a year now to specialize into those areas. My GitHub is currently    **🔭--> Under Construction <--🔭**,
+I've been studying for a year now to specialize into those areas. My GitHub is currently    **:construction:--> Under Construction <--:construction:**,
 I'm constantly updating to show some selected projects I've finished, and you can find the list here:
 
-   ||[[Machine Learning and Data Science](https://github.com/lemberck/lemberck/blob/main/README.md#machine-learning-and-data-science-projects)]||
+   |[[Machine Learning and Data Science](https://github.com/lemberck/lemberck/blob/main/README.md#machine-learning-and-data-science-projects)]|:mechanical_arm:
    
    
-   ||[[Artificial Intelligence and Virtual Assistannt](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-virtual-assistant-projects)]||
+   |[[Artificial Intelligence and Virtual Assistant](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-virtual-assistant-projects)]|:robot:
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
@@ -45,7 +45,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    ### _Machine Learning - Unsupervised_
    > [ML - Clustering- K-Means: Customer Segmentation](https://github.com/lemberck/ML-Clustering-K_Means-Customer_Segmentation)
    
-   🔭--> Under Construction <--🔭
+   :construction:--> Under Construction <--:construction:
    
    ### _Recommender Systems_
    > [ML - Recommender System - Content-Based: Movie Recommender](https://github.com/lemberck/ML-Recom_Syst-Content-Based-Movie_Recommender)⚡
@@ -63,7 +63,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    
 # Artificial Intelligence and Virtual Assistant Projects
- 🔭--> Under Construction <--🔭
+ :construction:--> Under Construction <--:construction:
 <!--
 **lemberck/lemberck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
