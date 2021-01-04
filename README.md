@@ -7,7 +7,10 @@ I'm also passionate about **_continuous learning_**, and I believe that's a must
 I've been studying for a year now to specialize into those areas. My GitHub is currently    **🔭--> Under Construction <--🔭**,
 I'm constantly updating to show some selected projects I've finished, and you can find the list here:
 
-               ||[Machine Learning and Data Science]()||       ||[Artificial Intelligence and Virtual Assistannt]()||
+   ||[Machine Learning and Data Science](https://github.com/lemberck/lemberck/blob/main/README.md#machine-learning-and-data-science-projects)||
+   
+   
+   ||[Artificial Intelligence and Virtual Assistannt]()||
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
