@@ -4,7 +4,7 @@ I'm an Automation Engineer passionate about **_Machine Learning, Artificial Inte
 I'm also passionate about **_continuous learning_**, and I believe that's a must for every professional that works in any tech-related area!
 
 
-I've been studying for a year now to specialize into those areas. My GitHub is currently    **:construction:--> Under Construction <--:construction:**,
+My GitHub is currently    **:construction:--> Under Construction <--:construction:**,
 I'm constantly updating to show some selected projects I've finished, and you can find the list here:
 
  >  | [Machine Learning and Data Science](https://github.com/lemberck/lemberck/blob/main/README.md#machine-learning-and-data-science-projects) |:mechanical_arm:
