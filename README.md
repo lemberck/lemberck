@@ -67,7 +67,8 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    
 # Artificial Intelligence and Virtual Assistant Projects
-   > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://brunalemberck.intelaedu.com/)⚡
+   > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://github.com/lemberck/Chatbot-WatsonAssistant-FlowerShop#chatbot-watsonassistant-flowershop)⚡
+   
  :construction:--> Under Construction <--:construction:
 <!--
 **lemberck/lemberck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
