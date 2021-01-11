@@ -67,6 +67,8 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    
 # Artificial Intelligence and Virtual Assistant Projects
+   >[Aidan - Student Advisor Bot - powered by Watson Assistant and Watson Discovery Integration - NLP, Content Tagging, Keyword Extraction](https://github.com/lemberck/chatbot-watsonDiscovery#aidan-the-coursera-virtual-assistant-for-students)
+   
    > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://github.com/lemberck/Chatbot-WatsonAssistant-FlowerShop#chatbot-watsonassistant-flowershop)⚡
    
  :construction:--> Under Construction <--:construction:
