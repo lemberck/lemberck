@@ -10,7 +10,7 @@ I'm constantly updating to show some selected projects I've finished, and you ca
  >  | [Machine Learning and Data Science](https://github.com/lemberck/lemberck/blob/main/README.md#machine-learning-and-data-science-projects) |:mechanical_arm:
    
    
- >  | [Artificial Intelligence and Machine Learning Engines](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-virtual-assistant-projects) |:robot:
+ >  | [Artificial Intelligence and Machine Learning Engines](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-machine-learning-engines) |:robot:
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
