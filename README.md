@@ -68,7 +68,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
 # Artificial Intelligence and Machine Learning Engines
    > [AIDAN - Student Advisor Bot - powered by Watson Assistant and Discovery Integration - NLP, Content Tagging, Keyword Extraction](https://github.com/lemberck/chatbot-watsonDiscovery#aidan-the-coursera-virtual-assistant-for-students)⚡
-   > [Auto AI - IBM Watson - Iris Flower Multiclass Deploy](link)⚡
+   > [Auto AI - IBM Watson - Iris Flower Multiclass Deploy](https://github.com/lemberck/IBM_Watson-Auto_AI-Iris_Flower_Multiclass_Deploy#ibm-watson---autoai-iris-flower-multiclass-deploy)⚡
    > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://github.com/lemberck/Chatbot-WatsonAssistant-FlowerShop#chatbot-watsonassistant-flowershop)⚡
    
  :construction:--> Under Construction <--:construction:
