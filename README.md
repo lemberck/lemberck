@@ -10,7 +10,7 @@ I'm constantly updating to show some selected projects I've finished, and you ca
  >  | [Machine Learning and Data Science](https://github.com/lemberck/lemberck/blob/main/README.md#machine-learning-and-data-science-projects) |:mechanical_arm:
    
    
- >  | [Artificial Intelligence and Virtual Assistant](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-virtual-assistant-projects) |:robot:
+ >  | [Artificial Intelligence and Machine Learning Engines](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-virtual-assistant-projects) |:robot:
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
@@ -67,8 +67,8 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    
 # Artificial Intelligence and Virtual Assistant Projects
-   >[AIDAN - Student Advisor Bot - powered by Watson Assistant and Discovery Integration - NLP, Content Tagging, Keyword Extraction](https://github.com/lemberck/chatbot-watsonDiscovery#aidan-the-coursera-virtual-assistant-for-students)⚡
-   
+   > [AIDAN - Student Advisor Bot - powered by Watson Assistant and Discovery Integration - NLP, Content Tagging, Keyword Extraction](https://github.com/lemberck/chatbot-watsonDiscovery#aidan-the-coursera-virtual-assistant-for-students)⚡
+   > [Auto AI - IBM Watson - Iris Flower Multiclass Deploy](link)⚡
    > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://github.com/lemberck/Chatbot-WatsonAssistant-FlowerShop#chatbot-watsonassistant-flowershop)⚡
    
  :construction:--> Under Construction <--:construction:
