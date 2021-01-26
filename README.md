@@ -71,6 +71,8 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    > [Auto AI - IBM Watson - Iris Flower Multiclass Deploy](https://github.com/lemberck/IBM_Watson-Auto_AI-Iris_Flower_Multiclass_Deploy#ibm-watson---autoai-iris-flower-multiclass-deploy)⚡
    
+   > [H2O AutoML - Term Deposit Prediction](https://github.com/lemberck/H2O_AutoML-Term_Deposit_Prediction#h2o_automl-term_deposit_prediction)
+   
    > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://github.com/lemberck/Chatbot-WatsonAssistant-FlowerShop#chatbot-watsonassistant-flowershop)⚡
    
  :construction:--> Under Construction <--:construction:
