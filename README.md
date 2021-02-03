@@ -12,7 +12,7 @@ I'm constantly updating to show some selected projects I've finished, and you ca
    
  >  | [Artificial Intelligence and Machine Learning Engines](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-machine-learning-engines) |:robot:
  
- >  | Some Keywords - [PySpark](), [H2O AutoML](), [Recommender Systems]() |
+ >  | Some Keywords - [PySpark](https://github.com/lemberck/lemberck/blob/main/README.md#_PySpark), [H2O AutoML](), [Recommender Systems]() |
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
@@ -53,7 +53,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    :construction:--> Under Construction <--:construction:
    
-   ### _Machine Learning - Ensemble
+   ### _PySpark_
    >[PySpark MLlib - ML Pipeline Random Forest - Car price prediction](https://github.com/lemberck/PySpark_MLlib-ML_Pipeline_Random_Forest-Car_price_prediction#pyspark_mllib-ml_pipeline_random_forest-car_price_prediction)⚡
    
    ### _Recommender Systems_
