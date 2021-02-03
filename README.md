@@ -12,7 +12,7 @@ I'm constantly updating to show some selected projects I've finished, and you ca
    
  >  | [Artificial Intelligence and Machine Learning Engines](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-machine-learning-engines) |:robot:
  
- >  | Some Keywords - [PySpark](https://github.com/lemberck/lemberck/blob/main/README.md#_PySpark), [H2O AutoML](), [Recommender Systems]() |
+ > Some Keywords - [PySpark](https://github.com/lemberck#pyspark), [H2O AutoML](https://github.com/lemberck#artificial-intelligence-and-machine-learning-engines), [Recommender Systems](https://github.com/lemberck#recommender-systems)
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
@@ -74,10 +74,9 @@ These are some selected Hands-on Projects from specialization courses I'm taking
 # Artificial Intelligence and Machine Learning Engines
    > [AIDAN - Student Advisor Bot - powered by Watson Assistant and Discovery Integration - NLP, Content Tagging, Keyword Extraction](https://github.com/lemberck/chatbot-watsonDiscovery#aidan-the-coursera-virtual-assistant-for-students)⚡
    
-   > [Auto AI - IBM Watson - Iris Flower Multiclass Deploy](https://github.com/lemberck/IBM_Watson-Auto_AI-Iris_Flower_Multiclass_Deploy#ibm-watson---autoai-iris-flower-multiclass-deploy)⚡
-   
    > [H2O AutoML - Term Deposit Prediction](https://github.com/lemberck/H2O_AutoML-Term_Deposit_Prediction#h2o_automl-term_deposit_prediction)⚡
    
+   > [Auto AI - IBM Watson - Iris Flower Multiclass Deploy](https://github.com/lemberck/IBM_Watson-Auto_AI-Iris_Flower_Multiclass_Deploy#ibm-watson---autoai-iris-flower-multiclass-deploy)⚡   
    
    > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://github.com/lemberck/Chatbot-WatsonAssistant-FlowerShop#chatbot-watsonassistant-flowershop)
    
