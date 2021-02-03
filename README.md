@@ -11,6 +11,8 @@ I'm constantly updating to show some selected projects I've finished, and you ca
    
    
  >  | [Artificial Intelligence and Machine Learning Engines](https://github.com/lemberck/lemberck/blob/main/README.md#artificial-intelligence-and-machine-learning-engines) |:robot:
+ 
+ >  | Some Keywords - [PySpark](), [H2O AutoML](), [Recommender Systems]() |
 
 These are some selected Hands-on Projects from specialization courses I'm taking, which are: 
 
@@ -51,6 +53,9 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    :construction:--> Under Construction <--:construction:
    
+   ### _Machine Learning - Ensemble
+   >[PySpark MLlib - ML Pipeline Random Forest - Car price prediction](https://github.com/lemberck/PySpark_MLlib-ML_Pipeline_Random_Forest-Car_price_prediction#pyspark_mllib-ml_pipeline_random_forest-car_price_prediction)⚡
+   
    ### _Recommender Systems_
    > [ML - Recommender System - Content-Based: Movie Recommender](https://github.com/lemberck/ML-Recom_Syst-Content-Based-Movie_Recommender)⚡
    
@@ -73,7 +78,6 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    > [H2O AutoML - Term Deposit Prediction](https://github.com/lemberck/H2O_AutoML-Term_Deposit_Prediction#h2o_automl-term_deposit_prediction)⚡
    
-   >[PySpark MLlib - ML Pipeline Random Forest - Car price prediction](https://github.com/lemberck/PySpark_MLlib-ML_Pipeline_Random_Forest-Car_price_prediction#pyspark_mllib-ml_pipeline_random_forest-car_price_prediction)⚡
    
    > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://github.com/lemberck/Chatbot-WatsonAssistant-FlowerShop#chatbot-watsonassistant-flowershop)
    
