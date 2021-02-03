@@ -1,5 +1,5 @@
 ### Welcome 👋 !
-I'm an Automation Engineer passionate about **_Machine Learning, Artificial Intelligence, Computer Vision and Data Science_**!
+I'm an Automation Engineer passionate about **_Machine Learning, Artificial Intelligence, Computer Vision, NLP and Data Science_**!
 
 I'm also passionate about **_continuous learning_**, and I believe that's a must for every professional that works in any tech-related area!
 
@@ -73,7 +73,7 @@ These are some selected Hands-on Projects from specialization courses I'm taking
    
    > [H2O AutoML - Term Deposit Prediction](https://github.com/lemberck/H2O_AutoML-Term_Deposit_Prediction#h2o_automl-term_deposit_prediction)⚡
    
-   >[PySpark MLlib - ML Pipeline Random Forest - Car price prediction](https://github.com/lemberck/PySpark_MLlib-ML_Pipeline_Random_Forest-Car_price_prediction#pyspark_mllib-ml_pipeline_random_forest-car_price_prediction)
+   >[PySpark MLlib - ML Pipeline Random Forest - Car price prediction](https://github.com/lemberck/PySpark_MLlib-ML_Pipeline_Random_Forest-Car_price_prediction#pyspark_mllib-ml_pipeline_random_forest-car_price_prediction)⚡
    
    > [Chatbot powered by IBM Watson Assistant API - Flower Shop](https://github.com/lemberck/Chatbot-WatsonAssistant-FlowerShop#chatbot-watsonassistant-flowershop)
    
