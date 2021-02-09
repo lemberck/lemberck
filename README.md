@@ -19,6 +19,8 @@ These are some selected Hands-on Projects from specialization courses I'm taking
   - _IBM_'s |Data Science Professional Certificate|  [Complete](https://www.youracclaim.com/earner/earned/badge/4d480c0a-02f6-46b6-82cd-602c5a76cd14):heavy_check_mark:
    
   - _IBM_'s |Applied AI Professional Certificate|  [Complete](https://www.youracclaim.com/badges/e9ab9452-1963-491e-86f7-c9369698575f/public_url):heavy_check_mark:
+  
+  - _Stanford University_'s |Machine Learning Course|  [Complete](https://www.coursera.org/account/accomplishments/verify/2ZKNTMWJYPRG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course):heavy_check_mark:
    
   - _Data Science Academy_'s |Python for Data Analysis| [Complete](https://www.linkedin.com/feed/update/urn:li:activity:6736732341579972608/):heavy_check_mark:
    
