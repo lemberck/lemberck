@@ -1,5 +1,5 @@
 ### Welcome 👋 !
-I'm an Automation Engineer passionate about **_Machine Learning, Artificial Intelligence, Computer Vision, NLP and Data Science_**!
+I'm an Automation Engineer passionate about **_Data Architecture, _Data Engineering, _Machine Learning, Artificial Intelligence, NLP and Data Science_**!
 
 I'm also passionate about **_continuous learning_**, and I believe that's a must for every professional that works in any tech-related area!
 
